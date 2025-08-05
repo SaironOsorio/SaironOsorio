@@ -15,7 +15,7 @@
 - :student: I am currently learning `Systems Engineering` and `Software Development`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
-- :boom: You can visit [MY WEBSITE](InProgress).
+- :boom: You can visit [MY WEBSITE](https://quodle.vercel.app/).
 <br>
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
