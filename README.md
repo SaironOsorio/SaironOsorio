@@ -14,7 +14,6 @@
 - :computer: I am a competitive programmer at `Codeforces`.
 - :student: I am currently learning `Systems Engineering` and `Software Development`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
 - :boom: You can visit [MY WEBSITE](https://quodle.vercel.app/).
 <br>
 
